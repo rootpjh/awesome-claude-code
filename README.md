@@ -879,3 +879,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [Awesome Claude Code Mods](https://github.com/karanb192/awesome-claude-code-mods) by [Karan Bansal](https://github.com/karanb192) - A community list of Claude Code mods built with function hooks. Scans public GitHub repositories and shows what the validator reports each mod can read, write, run or send over the network.  
 <img src="https://img.shields.io/github/created-at/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+### Spoken Context & Local AI MCP Hardware
+
+- [OneMira C1 & onemira-mcp](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with local AI transcription, multi-speaker separation (`Speaker ID`), Google Native OKF Markdown Wiki, and native Claude/Cursor MCP server ([onemira-mcp](https://github.com/onemira-space/onemira-mcp)) with zero cloud subscription.
